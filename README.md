@@ -14,7 +14,7 @@
 * [Favorite Algorithm](#favorite-algorithm)
 * [Inspiration](#inspiration)
 * [Prerequisites](#prerequisites)
-* [Bug to Fix](#bug-to-fix)
+* [Known Issues](#known-issue)
 * [Contact](#contact)
 * [Resources Used](#resources-used)
 
@@ -87,8 +87,8 @@ have first-hand experience while learning about convex-hull algorithms.
 ## Prerequisites
 Make sure you have the latest version of Java Runtime Environment.
 
-## Bug to Fix
-Currently, these are the bugs I have found and is actively trying to find a solution to it. <br>
+## Known Issue
+Currently, these are the issues I have found and is actively trying to find a solution to it. <br>
 Any advice on how to fix it would be much appreciated. 
  - Occasionally, the Marriage Before Conquest algorithm would leave out a point or include an extra point during the process of constructing the bridge 
  
