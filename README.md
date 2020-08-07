@@ -9,11 +9,11 @@
 ## Table of contents
 * [Screenshots](#screenshots)
 * [Setup](#setup)
+* [Prerequisites](#prerequisites)
 * [How to use](#how-to-use)
 * [Get to know the Algorithms](#get-to-know-the-algorithms)
 * [Favorite Algorithm](#favorite-algorithm)
 * [Inspiration](#inspiration)
-* [Prerequisites](#prerequisites)
 * [Known Issue(s)](#known-issue)
 * [Contact](#contact)
 * [Resources Used](#resources-used)
@@ -26,6 +26,10 @@ Sorry, but no heart is allowed in the world of convex hull
 
 ## Setup
 If you would like to run the program, simply download the code to your local device. Then, run the .jar file on your device.
+
+## Prerequisites
+Make sure you have the latest version of Java SE Development Kit. <br>
+Click [here](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) to download the latest Java SE Development Kit.
 
 ## How to use 
 Click on the canvas to generate on that specific spot <br>
@@ -83,9 +87,6 @@ After many failed explanation, I decided to draw out how the algorithm works.
 While drawing out the image to my mom, it came to me that my mom might not be the only one that has a hard time understanding the algorithm without an image.
 With that, I decided to build a visualizer that would enable users to see the algorithm they chose work on the points they chose, enabling them to 
 have first-hand experience while learning about convex-hull algorithms. 
-
-## Prerequisites
-Make sure you have the latest version of Java Runtime Environment.
 
 ## Known Issue(s)
 Currently, these are the issues I have found and is actively trying to find a solution to it. <br>
