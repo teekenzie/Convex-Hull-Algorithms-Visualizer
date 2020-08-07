@@ -62,6 +62,7 @@ with the already formed convex.
 **Marriage Before Conquest** - O(n lg h) <br>
 Marriage Before Conquest starts off by dividing the list of the points into halves by the median x-coordinate. It then recursively create bridges that would 
 go through the median x-coordinate. The bridges connect to form the upper hull. The lower hull would be then computed using the same process. 
+<br>
 **Chan's Algorithm** - O(n lg h) <br>
 Chan's Algorithm starts off by making a guess <i>m</i> on the number of outputs the convex has. Then it divides the points into <i>(n/m)</i> sections and use 
 Graham Scan (or any optimized algorithm) to form sub convex hulls from the sections. Jarvis March is then used to find the rightmost tangent from 
