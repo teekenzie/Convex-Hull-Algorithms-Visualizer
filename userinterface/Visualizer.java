@@ -26,7 +26,7 @@ public class Visualizer extends JFrame {
 
     public Visualizer() {
         JPanel thePanel = new JPanel();
-        this.setSize(595, 700);
+        this.setSize(700, 700);
         this.setLocationRelativeTo(null);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setResizable(false);
