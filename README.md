@@ -36,6 +36,7 @@ Click on the canvas to generate on that specific spot <br>
 Click on the random points button to generate between 75 and 125 random points <br> 
 Click on the clear or reset button to start the process over <br>
 Use the dropdown menu to choose the algorithm you desire <br> 
+Use the slider to adjust the speed of the animation <br>
 Finally, click on visualize to see the algorithm you chose work on the points you chose 
 
 ## Get to know the Algorithms
