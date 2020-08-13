@@ -2,7 +2,6 @@ import java.util.*;
 
 import setup.*;
 import algorithms.*;
-import setup.Queue;
 import setup.Stack;
 
 // enable assertion when running this class
@@ -33,7 +32,6 @@ public class Test {
         TestLine.testBySide();
         TestLine.testNegativeSlope();
         TestCircularPoint.testCircularPoint();
-        TestQueue.testQueue();
         TestMedian.testMedian();
         TestConvex.testConvex();
     }
@@ -426,30 +424,6 @@ public class Test {
                 result.append(temp.getPoint());
             answer = node1.getPoint().toString() + node2.getPoint().toString() + node3.getPoint().toString();
             assert result.toString().equals(answer) : result.toString();
-        }
-    }
-
-    private static class TestQueue {
-        public static void testQueue() {
-            Queue<Integer> queue = new Queue<>();
-            queue.enqueue(30);
-            Integer tempInt = queue.dequeue(); // try removing element where there is only one element left
-            assert tempInt.equals(30);
-            assert queue.isEmpty();
-            assert queue.size() == 0 : queue.size();
-            for (int i = 0; i < 10; i++)
-                queue.enqueue(i);
-            assert !queue.isEmpty();
-            assert queue.size() == 10: queue.size();
-            tempInt = queue.dequeue(); // try removing elements with many elements left
-            assert tempInt.equals(0): tempInt;
-            tempInt = queue.dequeue();
-            assert tempInt.equals(1); // try removing elements twice in a row
-            Integer[] nums = new Integer[8];
-            int i =0;
-            for (Integer num: queue) nums[i++] = num;
-            Integer[] answer = {2,3,4,5,6,7,8, 9};
-            assert Arrays.equals(nums, answer);
         }
     }
 
