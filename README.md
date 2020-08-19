@@ -28,8 +28,8 @@ Sorry, but no heart is allowed in the world of convex hull
 If you would like to run the program, simply download the code to your local device. Then, run the .jar file on your device.
 
 ## Prerequisites
-Make sure you have the latest version of Java SE Development Kit. <br>
-Click [here](https://www.oracle.com/java/technologies/javase-downloads.html) to download the latest Java SE Development Kit.
+Make sure you have the latest version of Java SE. <br>
+Click [here](https://www.oracle.com/java/technologies/javase-downloads.html) to download the latest Java SE.
 
 ## How to use 
 Click on the canvas to generate on that specific spot <br>
