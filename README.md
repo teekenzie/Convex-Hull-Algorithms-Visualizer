@@ -29,7 +29,7 @@ If you would like to run the program, simply download the code to your local dev
 
 ## Prerequisites
 Make sure you have the latest version of Java SE Development Kit. <br>
-Click [here](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) to download the latest Java SE Development Kit.
+Click [here](https://www.oracle.com/java/technologies/javase-downloads.html) to download the latest Java SE Development Kit.
 
 ## How to use 
 Click on the canvas to generate on that specific spot <br>
