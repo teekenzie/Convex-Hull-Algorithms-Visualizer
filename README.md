@@ -93,6 +93,7 @@ have first-hand experience while learning about convex-hull algorithms.
 Currently, these are the issues I have found and is actively trying to find a solution to it. <br>
 Any advice on how to fix it would be much appreciated. 
  - Occasionally, the Marriage Before Conquest algorithm would leave out a point or include an extra point during the process of constructing the bridge 
+ - Implemented double buffering but the page will still flikcer once in a while
  
 ## Contact
 Created by [Kenzie Tee](https://www.linkedin.com/in/kenzie-tee-1276701b2/) - feel free to contact me!
