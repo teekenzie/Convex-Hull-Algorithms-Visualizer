@@ -1,5 +1,5 @@
 /*
-  Chose to use heapsort because it is the most optimized (guarantees nlogn performance and offers in place sort)
+  Chose to use heapsort because it guarantees O(nlogn) time complexity and doesn't use extra space.
  */
 
 package setup;
