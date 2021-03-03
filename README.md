@@ -1,6 +1,6 @@
 # Convex Hull Algorithms Visualizer
 > Created Fall 2020<br>
-> According to [Wikepedia](https://en.wikipedia.org/wiki/Convex_hull), the convex hull may be visualized as the shape enclosed by a rubber band stretched around the subset.
+> According to [Wikipedia](https://en.wikipedia.org/wiki/Convex_hull), the convex hull may be visualized as the shape enclosed by a rubber band stretched around the subset.
 > There are many algorithms that could compute the convex hull given a set of points, which could make it feel overwhelming to learn how each algorithm work. 
 > With this visualizer, you could learn the algorithms easily as you would have the first-hand experience of seeing 
 > how the algorithm you chose works on the points you chose to form the convex hull. <br>
